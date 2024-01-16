@@ -10,7 +10,7 @@
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": ""
+      "value": "mongodb_540095e1-6500-4c60-aff8-f50e93f90066"
     },
     "SESSION_ID": {
       "description": "your session id",
